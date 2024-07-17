@@ -1,0 +1,4 @@
+../X-CUBE-AI/App/network_9_data.c:360:11:ai_network_9_data_activations_buffer_get	72	static
+../X-CUBE-AI/App/network_9_data.c:378:11:ai_network_9_data_weights_buffer_get	72	static
+../X-CUBE-AI/App/network_9_data.c:396:11:ai_network_9_data_weights_get	4	static
+../X-CUBE-AI/App/network_9_data.c:409:9:ai_network_9_data_params_get	32	static

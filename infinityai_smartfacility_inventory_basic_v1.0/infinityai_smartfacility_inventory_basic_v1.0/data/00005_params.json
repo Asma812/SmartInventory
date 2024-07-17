@@ -1,0 +1,13 @@
+{
+  "params": {
+    "scene": "GROCERY_INVENTORY_0001",
+    "num_frames": 30,
+    "image_width": 1024,
+    "image_height": 768,
+    "shelf_fill_factor": 0.2,
+    "camera_x": -0.5489589159930419,
+    "camera_y": -5.312705536665214,
+    "camera_z": 1.862840115196904,
+    "random_seed": 5483
+  }
+}
