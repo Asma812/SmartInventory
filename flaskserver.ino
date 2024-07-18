@@ -6,8 +6,8 @@
 #define SERIAL_BAUDRATE 115200
 
 // Network Parameters
-const char* ssid = "TOPNETF4FEF294";
-const char* password = "93B9DD0143";
+const char* ssid = "***********";
+const char* password = "*********";
 const char* server_ip = "192.168.1.15"; // IP address of your Flask server
 const int server_port = 5000; // Port on which the Flask server is running
 
