@@ -6,7 +6,7 @@ dans les niveaux de stock, des ruptures de stock et des pertes financières. De
 plus, la sécurité des entrepôts et la traçabilité des produits sont des
 préoccupations majeures pour de nombreuses entreprises, en particulier dans les
 secteurs où la qualité et la sécurité des produits sont cruciales.
-Pour répondre à ces défis, je propose un système intelligent de gestion des
+Pour répondre à ces défis, nous proposons un système intelligent de gestion des
 stocks qui combine la technologie de classification d'images pour le comptage
 des articles, la vérification RFID pour l'identification des employés et des
 produits, et le cloud computing pour le stockage et l'analyse des données. La
